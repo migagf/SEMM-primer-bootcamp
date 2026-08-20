@@ -4,9 +4,19 @@ This repository contains the material for the SEMM primer bootcamp.
 
 ## Structure
 
-- `Private/Day 1/` - Day 1 slide deck PDFs
-- `Private/Day 2/` - Day 2 materials
+`Day 1/` - Day 1 slide deck PDFs
+- Overview
+- Linear Algebra
+- Probability
+- Calculus
+- ODE + PDE
+- Programming, Part 1
 
-## Notes
+`Day 2/` - Day 2 materials
+- Analysis/Statics
+- Dynamics
+- Design
+- Programming, Part 2
 
-The slide PDFs currently available in this repo are Day 1 materials. Day 2 is ready for the later set of slides.
+`Resources` - Additional resources
+- Getting started with VS-Code and Python

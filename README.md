@@ -18,5 +18,5 @@ This repository contains the material for the SEMM primer bootcamp.
 - Design
 - Programming, Part 2
 
-`Resources` - Additional resources
+`Resources/` - Additional resources
 - Getting started with VS-Code and Python

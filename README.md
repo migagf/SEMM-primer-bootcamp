@@ -5,9 +5,9 @@ This repository contains the material for the SEMM primer bootcamp.
 ## Structure
 
 `Day 1/` - Day 1 slide deck PDFs
-- Overview
-- Linear Algebra
-- Probability
+- Overview (recoding: https://youtu.be/htXPq0nX2GY)
+- Linear Algebra (video)
+- Probability (
 - Calculus
 - ODE + PDE
 - Programming, Part 1
